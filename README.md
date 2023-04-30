@@ -2,7 +2,6 @@
 [VS Code]
 
 Centro Universitário UNA
-kjnclob
 Programação de Soluções Computacionais
 Professor Daniel Henrique Matos de Paiva
 
