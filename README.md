@@ -1,9 +1,9 @@
 # lista-exercicio-1-java
 By: Felipe Claver Diniz [VS Code]
 
-Centro Universitário UNA
-Programação de Soluções Computacionais
-Professor Daniel Henrique Matos de Paiva
+Centro Universitário UNA<br>
+Programação de Soluções Computacionais<br>
+Professor Daniel Henrique Matos de Paiva<br>
 
 
 Lista de Exercícios em Java I: Estrutura Sequencial 
