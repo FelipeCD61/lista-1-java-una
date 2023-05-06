@@ -8,7 +8,7 @@ public class Questao3 {
     
     //Aqui coloquei uma linha divisória//
     System.out.println("----------------------------------");
-    System.out.printf("Essa temperatura em graus centígrados é: " + (f - 32) / 1.8 + "°C");
+    System.out.printf("Essa temperatura em graus centígrados é: %.2f°C", (f - 32) / 1.8);
 
     sc.close();
   }
