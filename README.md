@@ -47,16 +47,15 @@ O	algoritmo deve determinar quantos carros e quantas motos há no estacionamento
 
 9.	Escreva um algoritmo que receba um número inteiro de segundos a partir do teclado e imprima na tela a quantidade correspondente em horas, minutos e segundos. 
 
-10.	Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores. 
-
-OBS.: 
-a.Média aritmética: 
+10.	Escreva um algoritmo que, dados três valores, calcule e imprima as médias aritmética, harmônica e geométrica destes valores.<br>
+OBS.: <br>
+a.Média aritmética:<br> 
 (a + b + c) / 3 
 
-b.	Média harmônica: 
+b.	Média harmônica:<br> 
 3/(1/a + 1/b + 2/c)
  
-c.	Média geométrica:
+c.	Média geométrica:<br>
 3V(a x b x c)
 
  
